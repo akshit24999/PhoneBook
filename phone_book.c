@@ -6,6 +6,7 @@
      char email[20];
      int phno;
  };
+ //testing git
  int add_contact (char* name,char* email,char* phone);
  int edit (int index, char* new_name,char* new_email,char* new_phone);
  int del (int index);
